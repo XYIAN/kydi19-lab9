@@ -1,0 +1,14 @@
+.centerText
+{
+    text-align:  center; 
+}
+main
+{
+    background-color: maroon; 
+    color: white;
+}
+.footer
+{
+    justify-content:center;
+    text-align: center;
+}
